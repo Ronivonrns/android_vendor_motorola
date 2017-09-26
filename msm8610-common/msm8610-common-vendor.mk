@@ -64,6 +64,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8610-common/proprietary/lib/libtpa.so:system/lib/libtpa.so \
     vendor/motorola/msm8610-common/proprietary/lib/libtpa_core.so:system/lib/libtpa_core.so \
     vendor/motorola/msm8610-common/proprietary/lib/soundfx/libmmieffectswrapper.so:system/lib/soundfx/libmmieffectswrapper.so \
+    vendor/motorola/msm8610-common/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
     vendor/motorola/msm8610-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/motorola/msm8610-common/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/motorola/msm8610-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
